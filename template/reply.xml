@@ -1,0 +1,26 @@
+$def with (toUser,fromUser,createTime,content,type)
+<xml>
+$if type=='TEXT':
+    <ToUserName><![CDATA[$toUser]]></ToUserName>
+    <FromUserName><![CDATA[$fromUser]]></FromUserName>
+    <CreateTime>$createTime</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content>$content</Content>
+$else:
+    <ToUserName><![CDATA[$toUser]]></ToUserName>
+    <FromUserName><![CDATA[$fromUser]]></FromUserName>
+    <CreateTime>$createTime</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>$len(content)</ArticleCount>
+    <Articles>
+        $for article in content:
+            <item>
+                <Title><![CDATA[$article.get('title','')]]></Title> 
+                <Description>$article.get('desc','')</Description>
+                <PicUrl>$article.get('pic','')</PicUrl>
+                <Url>$article.get('url','')</Url>
+            </item>
+    </Articles>
+</xml>
+
+
