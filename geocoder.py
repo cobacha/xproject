@@ -30,7 +30,7 @@ def GetDistance(lng1, lat1, lng2, lat2):
 
     s = 2 * math.sin(math.sqrt(math.pow(math.sin(a/2),2) + math.cos(radLat1)*math.cos(radLat2)*math.pow(math.sin(b/2),2)))
     s = s * EARTH_RADIUS
-    s = round(s * 10000) / 10000
+    s = s * 1000
     return s
 
 def GetCostTime(lng1, lat1, lng2, lat2):

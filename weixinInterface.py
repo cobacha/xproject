@@ -41,3 +41,26 @@ class WeixinInterface:
         toUser=xml.find("ToUserName").text
         res,type=self.compute.compute(xml)
         return self.render.reply(fromUser,toUser,int(time.time()),res,type)
+
+class Redirect:
+    def __init__(self):
+        self.compute = compute.Compute()
+    def GET(self):
+        data = web.input()
+        self.compute.count(data.name.encode('utf-8'))
+        return web.redirect(self.compute.get_url(data.name.encode('utf-8')))
+
+class Service:
+    def __init__(self):
+        self.app_root = os.path.dirname(__file__)
+        self.templates_root = os.path.join(self.app_root, 'template')
+        self.render = web.template.render(self.templates_root)
+        self.compute=compute.Compute()
+    def GET(self):
+        data=web.input()
+        category=data.category.encode('utf-8')
+        geo=data.geo.split(',')
+        geo=[float(geo[0]),float(geo[1])]
+        services=self.compute.find_services(geo, category)
+        return self.render.services(services)
+

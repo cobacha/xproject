@@ -37,7 +37,19 @@ def GeoConv(lng,lat):
         return obj[0]['x'],obj[0]['y']
     return None
 
+def GetMapServices(location, query):
+    url='http://api.map.baidu.com/place/v2/search?query=%s&location=%f,%f&radius=2000&output=json&ak=cSkdmrGpRGBlts5uWq7wa4ef' %(query, location[1], location[0])
+    print url
+    req = urllib2.Request(url)
+    resp = urllib2.urlopen(req)
+    content = resp.read()
+    if content:
+        results=json.loads(content)['results']
+        return results
+    return None
 
 if __name__=='__main__':
     print GetWeather('北京')
     print GetTuringRes('1381654331手机的归属地', 'cxx')
+    print GetMapServices([113.943257,22.524654], '医院')[0]['name'].encode('utf-8')
+    print GetMapServices([113.943087,22.524713], '医院')[0]['name'].encode('utf-8')

@@ -1,0 +1,27 @@
+外卖	百度外卖		http://188.166.241.25/static/imgs/logo/baiduwaimai_icon.jpg	http://waimai.baidu.com/mobile/waimai
+洗衣	e袋洗	按袋洗99元/袋，装多少洗多少	http://188.166.241.25/static/imgs/logo/edaixi_icon.jpg	http://wx.rongchain.com/mobile.php?m=wap&act=homepage&do=index
+家电维修	轻松家电		http://188.166.241.25/static/imgs/logo/qingsongjiadian_icon.jpg	http://api.uyess.com/static/index.html
+搬家	58到家速运		http://188.166.241.25/static/imgs/logo/58daojia_suyun_icon.jpg	http://m.daojia.com/sz/huoyun/
+手机维修	极客修		http://188.166.241.25/static/imgs/logo/jikexiu_icon.jpg	http://m.jikexiu.com/
+家庭保洁	阿姨帮	25元/小时，2小时起	http://188.166.241.25/static/imgs/logo/ayibang_icon.png	http://m.ayibang.com/appointment/?keyword=project_cleaning
+快递	快递100		http://188.166.241.25/static/imgs/logo/kuaidi100_icon.jpg	http://m.kuaidi100.com/courier/search.jsp
+回收	爱回收		http://188.166.241.25/static/imgs/logo/aihuishou_icon.jpg	http://m.aihuishou.com/
+打车	滴滴打车		http://188.166.241.25/static/imgs/logo/dididache_icon.jpg	http://pay.xiaojukeji.com/api/v2/weixinapi
+代驾	e代驾		http://188.166.241.25/static/imgs/logo/edaijia_icon.jpg	http://h5.edaijia.cn/app/index.html
+汽车保养	卡拉丁		http://188.166.241.25/static/imgs/logo/kalading_icon.jpg	http://www.kalading.com/home
+推拿	熊猫拿拿		http://188.166.241.25/static/imgs/logo/xiongmaonana_icon.jpg	http://m.nanapanda.cn/personal
+美甲	河狸家		http://188.166.241.25/static/imgs/logo/helijia_icon.jpg	http://www.helijia.com/mobile/build/app/home/home.html
+美妆	美到家		http://188.166.241.25/static/imgs/logo/meidaojia_icon.jpg	http://mp.meidaojia.com/Mdj/wxMain/main/561fa1bc9e9637995f690b00
+厨师	好厨师		http://188.166.241.25/static/imgs/logo/haochushi_icon.jpg	http://www.chushi007.com/book.php
+生鲜配送	本来生活		http://188.166.241.25/static/imgs/logo/benlaishenghuo_icon.jpg	http://m.benlai.com/showSite
+超市	爱鲜蜂		http://188.166.241.25/static/imgs/logo/aixianfeng_icon.jpg	http://m.beequick.cn/menu
+咖啡	连咖啡		http://188.166.241.25/static/imgs/logo/liankafei_icon.jpg	http://m.lyancoffee.com/wechat/buycafe/providers
+话费	百度钱包		http://188.166.241.25/static/imgs/logo/baiduqianbao_icon.jpg	https://life.baifubao.com/sj
+票务	微票儿		http://188.166.241.25/static/imgs/logo/weipiaoer_icon.jpg	http://wx.wepiao.com/index.html
+推拿	 轻松头面肩（98元/45分钟）		http://188.166.241.25/static/imgs/logo/xiongmaonana_item1.jpg	http://m.nanapanda.cn/category/7
+推拿	 壮壮腰背（118元/45分钟）		http://188.166.241.25/static/imgs/logo/xiongmaonana_item2.jpg	http://m.nanapanda.cn/category/8
+推拿	 拿拿一身（138元/60分钟）		http://188.166.241.25/static/imgs/logo/xiongmaonana_item3.jpg	http://m.nanapanda.cn/category/9
+美容	美容总监		http://188.166.241.25/static/imgs/logo/meirongzongjian_icon.jpg	http://weapp.meirongzongjian.com/index/wechat
+美容	 净莹晶透平衡清爽专享（146元/90分钟）		http://188.166.241.25/static/imgs/logo/meirongzongjian_item1.jpg	http://weapp.meirongzongjian.com/commodity/detail?id=1327
+美容	 逆时空活肤抗衰专享（486元/120分钟）		http://188.166.241.25/static/imgs/logo/meirongzongjian_item1.jpg	http://weapp.meirongzongjian.com/commodity/detail?id=1332
+医院	 就医160		http://188.166.241.25/static/imgs/logo/jiuyi160_icon.jpg	http://weixin.91160.com/

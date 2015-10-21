@@ -3,11 +3,13 @@ import os
 import web
 
 from weixinInterface import WeixinInterface
-from weixinTest import WeixinTest
+from weixinInterface import Service
+from weixinInterface import Redirect
 
 urls = (
        '/weixin','WeixinInterface',
-       '/weixintest', 'WeixinTest'
+       '/redirect', 'Redirect',
+       '/service', 'Service',
 )
 
 render = web.template.render('template')
