@@ -20,15 +20,18 @@ def GetRating():
 def GetCount():
     return str(random.randint(1, 1000))
 
-f=open('58.bj-sz.step3')
+f=open('58.all.final')
+had={}
 for line in f:
     s=json.loads(line.strip())
-    if 'telephone' not in s or s['telephone']=='':
-        s['telephone']=GetPhone()
-    if 'rating' not in s or s['rating']=='' or s['rating']=='0.0':
-        s['rating']=GetRating()
-    if 'bookCount' not in s or s['bookCount']=='' or s['bookCount']=='0':
-        s['bookCount']=GetCount()
+    if s['datePosted']<'2015':
+        continue
+    if s['company']+','+str(s['location']) in had:
+        continue
+    had[s['company']+','+str(s['location'])]=1
+
+    if 'rating' not in s or s['rating']=='':
+        s['rating']='0.0'
     s['location']={'type': 'Point', 'coordinates': s['location']}
     mydb.service.save(s)
 mydb.service.ensure_index([('location','2dsphere'), ('category', ASCENDING)])
