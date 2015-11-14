@@ -46,7 +46,7 @@ class Compute:
             res, type=duermgr.Process(users[user], content)
             return res,type
         else:
-            return apitools.GetTuringRes(content, user),'TEXT'
+            return '很抱歉，我还不能理解你的问题，不如对我说：我要修手机[微笑]','TEXT'
 
     def compute(self, xml):
         user=xml.find('FromUserName').text
@@ -72,13 +72,11 @@ class Compute:
             users.setdefault(user, {})['city']=component['city'].encode('utf-8').rstrip('市')
             article={}
             article['title']='好的，现在小通可以为您提供服务了，以下内容应有尽有：\n\n'
-            article['title']+='★咖啡、水果、零食、香烟\n'
             article['title']+='★洗衣洗鞋、家庭保洁、保姆月嫂\n'
-            article['title']+='★查寄快递、挂号、搬家\n'
+            article['title']+='★查寄快递、搬家\n'
             article['title']+='★推拿、美容、美甲、美妆\n'
-            article['title']+='★充话费、电影票、演出票\n'
             article['title']+='★厨师上门、生鲜配送、外卖\n'
-            article['title']+='★打车、找人代驾、汽车保养\n'
+            article['title']+='★水果、蔬菜、汽车保养\n'
             article['title']+='★家电维修、家电清洗、数码维修回收\n'
             article['title']+='★家具维修、房屋防水、管道疏通、开锁换锁\n'
             return article['title'], 'TEXT'

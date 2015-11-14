@@ -1019,3 +1019,176 @@ Thu, 29 Oct 2015 18:03:11 compute.py[line:69] INFO user=oqi1NwdCBr73X7JBg-8UEPkR
 Thu, 29 Oct 2015 18:03:20 compute.py[line:57] INFO user=oqi1NwdCBr73X7JBg-8UEPkR2hQA; text=叫个车 鹏寰大厦到百度科技园
 Thu, 29 Oct 2015 18:25:22 compute.py[line:57] INFO user=oqi1NwSFSpY2W56YBb9F_A-cJQ0o; text=保洁
 Thu, 29 Oct 2015 18:25:22 compute.py[line:45] INFO user=oqi1NwSFSpY2W56YBb9F_A-cJQ0o; category=家庭保洁; status=None
+Thu, 29 Oct 2015 18:56:21 compute.py[line:67] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; geo=113.952188185,22.5446215033
+Thu, 29 Oct 2015 18:56:21 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Thu, 29 Oct 2015 18:56:22 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5446215033,113.952188185&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7078
+Thu, 29 Oct 2015 18:56:22 compute.py[line:69] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; address=南山区大冲科技园三十区东(铜鼓路西)
+Thu, 29 Oct 2015 18:59:14 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要开锁
+Thu, 29 Oct 2015 18:59:14 compute.py[line:45] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; category=开锁换锁; status=None
+Thu, 29 Oct 2015 19:43:09 compute.py[line:57] INFO user=oqi1NwUjWR1CbS4Z-po_qLZ9iXUo; text=外卖
+Thu, 29 Oct 2015 19:43:16 compute.py[line:67] INFO user=oqi1NwUjWR1CbS4Z-po_qLZ9iXUo; geo=113.94988368,22.530344642
+Thu, 29 Oct 2015 19:43:16 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Thu, 29 Oct 2015 19:43:17 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.530344642,113.94988368&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7503
+Thu, 29 Oct 2015 19:43:17 compute.py[line:69] INFO user=oqi1NwUjWR1CbS4Z-po_qLZ9iXUo; address=南山区科技南路(科苑地铁站东北450米)
+Thu, 29 Oct 2015 19:43:19 compute.py[line:57] INFO user=oqi1NwUjWR1CbS4Z-po_qLZ9iXUo; text=外卖
+Thu, 29 Oct 2015 19:43:19 compute.py[line:45] INFO user=oqi1NwUjWR1CbS4Z-po_qLZ9iXUo; category=外卖; status=None
+Thu, 29 Oct 2015 19:51:25 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要充话费
+Thu, 29 Oct 2015 19:51:25 compute.py[line:45] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; category=话费; status=None
+Thu, 29 Oct 2015 22:32:35 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要请家政
+Thu, 29 Oct 2015 22:33:04 compute.py[line:67] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; geo=113.951347299,22.5314941227
+Thu, 29 Oct 2015 22:33:04 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Thu, 29 Oct 2015 22:33:05 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5314941227,113.951347299&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7248
+Thu, 29 Oct 2015 22:33:05 compute.py[line:69] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; address=南山区深圳湾科技生态园3、4区附近
+Thu, 29 Oct 2015 22:33:15 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要请家政
+Thu, 29 Oct 2015 22:33:25 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=家政服务
+Thu, 29 Oct 2015 22:33:37 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要保洁
+Thu, 29 Oct 2015 22:33:37 compute.py[line:45] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; category=家庭保洁; status=None
+Fri, 30 Oct 2015 13:03:53 compute.py[line:57] INFO user=oqi1NwWtL51OvoruNCM40opY8M60; text=咖啡
+Sun, 01 Nov 2015 22:25:52 compute.py[line:57] INFO user=oqi1NwV839H0PkzzNyX25rwnxZMg; text=睡觉
+Sun, 01 Nov 2015 22:26:05 compute.py[line:67] INFO user=oqi1NwV839H0PkzzNyX25rwnxZMg; geo=113.958510472,22.5634155235
+Sun, 01 Nov 2015 22:26:05 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Sun, 01 Nov 2015 22:26:08 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5634155235,113.958510472&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 6753
+Sun, 01 Nov 2015 22:26:08 compute.py[line:69] INFO user=oqi1NwV839H0PkzzNyX25rwnxZMg; address=南山区桃源街道大沙河内(奥瑞那大厦西)
+Sun, 01 Nov 2015 22:26:29 compute.py[line:57] INFO user=oqi1NwV839H0PkzzNyX25rwnxZMg; text=我要吃水果
+Sun, 01 Nov 2015 22:26:29 compute.py[line:45] INFO user=oqi1NwV839H0PkzzNyX25rwnxZMg; category=超市; status=None
+Sun, 01 Nov 2015 22:27:31 compute.py[line:57] INFO user=oqi1NwV839H0PkzzNyX25rwnxZMg; text=我要烟
+Sun, 01 Nov 2015 22:27:46 compute.py[line:57] INFO user=oqi1NwV839H0PkzzNyX25rwnxZMg; text=晚安
+Mon, 02 Nov 2015 15:34:32 compute.py[line:67] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; geo=113.970857352,22.5981356402
+Mon, 02 Nov 2015 15:34:32 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Mon, 02 Nov 2015 15:34:32 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5981356402,113.970857352&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 6608
+Mon, 02 Nov 2015 15:34:32 compute.py[line:69] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; address=南山区西丽深圳市野生动物园内(沁园路东)
+Mon, 02 Nov 2015 15:34:53 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=上门维修iPad
+Mon, 02 Nov 2015 15:35:07 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=维修iPad
+Mon, 02 Nov 2015 15:35:21 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=家电维修
+Mon, 02 Nov 2015 15:35:21 compute.py[line:45] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; category=家电维修; status=None
+Mon, 02 Nov 2015 15:44:49 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=手机维修
+Mon, 02 Nov 2015 15:44:49 compute.py[line:45] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; category=手机维修; status=None
+Mon, 02 Nov 2015 15:45:05 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=数码维修
+Mon, 02 Nov 2015 15:45:12 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=手机维修
+Mon, 02 Nov 2015 15:45:12 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=手机维修; status=None
+Mon, 02 Nov 2015 15:46:39 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=iphone维修
+Mon, 02 Nov 2015 15:47:13 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=上门维修手机
+Mon, 02 Nov 2015 15:47:13 compute.py[line:45] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; category=手机维修; status=None
+Mon, 02 Nov 2015 15:53:58 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=平板维修
+Mon, 02 Nov 2015 15:54:10 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=维修平板
+Mon, 02 Nov 2015 15:54:21 compute.py[line:57] INFO user=oqi1NwXD5MGpHNqas_Slj5hqps6I; text=维修平板电脑
+Mon, 02 Nov 2015 16:44:00 compute.py[line:67] INFO user=oqi1NwXU3qoPSBX1AqG9hqBw5qKU; geo=117.277099397,31.8443070876
+Mon, 02 Nov 2015 16:44:00 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Mon, 02 Nov 2015 16:44:04 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=31.8443070876,117.277099397&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 6921
+Mon, 02 Nov 2015 16:44:04 compute.py[line:69] INFO user=oqi1NwXU3qoPSBX1AqG9hqBw5qKU; address=包河区合肥市第二中学内(绩溪路东)
+Mon, 02 Nov 2015 16:44:08 compute.py[line:57] INFO user=oqi1NwXU3qoPSBX1AqG9hqBw5qKU; text=有什么好吃的
+Mon, 02 Nov 2015 17:00:46 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=有什么好吃的
+Mon, 02 Nov 2015 17:13:51 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=有什么好吃的
+Mon, 02 Nov 2015 17:13:56 compute.py[line:67] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; geo=113.949655819,22.5303319582
+Mon, 02 Nov 2015 17:13:56 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Mon, 02 Nov 2015 17:13:56 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5303319582,113.949655819&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7582
+Mon, 02 Nov 2015 17:13:56 compute.py[line:69] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; address=南山区科技园平安银行南(科技南路西)
+Mon, 02 Nov 2015 17:14:01 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=有什么好吃的
+Mon, 02 Nov 2015 17:14:08 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要修手机
+Mon, 02 Nov 2015 17:14:08 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=手机维修; status=None
+Mon, 02 Nov 2015 17:15:07 compute.py[line:67] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; geo=113.949613843,22.5303318373
+Mon, 02 Nov 2015 17:15:07 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Mon, 02 Nov 2015 17:15:08 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5303318373,113.949613843&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7566
+Mon, 02 Nov 2015 17:15:08 compute.py[line:69] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; address=南山区威新软件科技园(科技南路西)
+Mon, 02 Nov 2015 17:15:14 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=哈哈
+Mon, 02 Nov 2015 17:15:20 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要修手机
+Mon, 02 Nov 2015 17:15:20 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=手机维修; status=None
+Mon, 02 Nov 2015 17:15:30 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要修电脑
+Mon, 02 Nov 2015 17:15:30 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=电脑维修; status=None
+Mon, 02 Nov 2015 17:15:40 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要修平板
+Mon, 02 Nov 2015 17:15:40 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=手机维修; status=None
+Tue, 03 Nov 2015 09:25:36 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=哈哈
+Tue, 03 Nov 2015 10:44:02 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要修手机
+Tue, 03 Nov 2015 10:44:12 compute.py[line:67] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; geo=113.949853697,22.530348549
+Tue, 03 Nov 2015 10:44:12 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Tue, 03 Nov 2015 10:44:17 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要修手机
+Tue, 03 Nov 2015 10:44:17 compute.py[line:67] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; geo=113.949853697,22.530348549
+Tue, 03 Nov 2015 10:44:17 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Tue, 03 Nov 2015 10:44:18 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.530348549,113.949853697&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7564
+Tue, 03 Nov 2015 10:44:18 compute.py[line:69] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; address=南山区科技园平安银行南(近科技南路)
+Tue, 03 Nov 2015 10:44:25 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.530348549,113.949853697&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7561
+Tue, 03 Nov 2015 10:44:25 compute.py[line:69] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; address=南山区科技南路公交站
+Tue, 03 Nov 2015 10:44:28 compute.py[line:57] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; text=我要修手机
+Tue, 03 Nov 2015 10:44:28 compute.py[line:45] INFO user=oqi1NwZ4fBR2LpnDYCm112kmsJ6s; category=手机维修; status=None
+Tue, 03 Nov 2015 14:27:34 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要洗衣服
+Tue, 03 Nov 2015 14:27:38 compute.py[line:67] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; geo=113.949549895,22.5302726596
+Tue, 03 Nov 2015 14:27:38 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Tue, 03 Nov 2015 14:27:39 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5302726596,113.949549895&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7583
+Tue, 03 Nov 2015 14:27:39 compute.py[line:69] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; address=南山区威新软件科技园内(科技南路西)
+Tue, 03 Nov 2015 14:27:43 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要洗衣服
+Tue, 03 Nov 2015 14:27:43 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=洗涤; status=None
+Tue, 03 Nov 2015 14:37:10 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要按摩
+Tue, 03 Nov 2015 14:37:10 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=推拿; status=None
+Tue, 03 Nov 2015 14:37:18 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要美容
+Tue, 03 Nov 2015 14:37:18 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=美容; status=None
+Tue, 03 Nov 2015 14:41:46 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=汽车保养
+Tue, 03 Nov 2015 14:41:46 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=汽车保养; status=None
+Tue, 03 Nov 2015 16:50:40 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=有什么好吃的
+Tue, 03 Nov 2015 17:16:42 compute.py[line:57] INFO user=oqi1NwTJoSY6dXpuja63y4nqAJlw; text=家政
+Tue, 03 Nov 2015 17:17:02 compute.py[line:67] INFO user=oqi1NwTJoSY6dXpuja63y4nqAJlw; geo=113.949822755,22.5302104618
+Tue, 03 Nov 2015 17:17:02 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Tue, 03 Nov 2015 17:17:03 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5302104618,113.949822755&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7568
+Tue, 03 Nov 2015 17:17:03 compute.py[line:69] INFO user=oqi1NwTJoSY6dXpuja63y4nqAJlw; address=南山区科技园平安银行南(科技南路西)
+Tue, 03 Nov 2015 17:32:56 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=阿姨
+Tue, 03 Nov 2015 17:32:56 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=保姆月嫂; status=None
+Tue, 03 Nov 2015 22:30:40 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=哈哈
+Tue, 03 Nov 2015 22:30:54 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=有什么好吃的吗
+Tue, 03 Nov 2015 22:30:59 compute.py[line:67] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; geo=113.936200346,22.5344512013
+Tue, 03 Nov 2015 22:30:59 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Tue, 03 Nov 2015 22:30:59 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5344512013,113.936200346&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 6928
+Tue, 03 Nov 2015 22:30:59 compute.py[line:69] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; address=南山区深圳大学上文山湖东北450米
+Wed, 04 Nov 2015 13:29:15 compute.py[line:67] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; geo=113.949506919,22.5302725401
+Wed, 04 Nov 2015 13:29:15 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Wed, 04 Nov 2015 13:29:15 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5302725401,113.949506919&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7564
+Wed, 04 Nov 2015 13:29:15 compute.py[line:69] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; address=南山区科技园平安银行南(科技南路西)
+Wed, 04 Nov 2015 13:29:16 compute.py[line:67] INFO user=oqi1NwRiHZMc9Odc2Qr42__0ferg; geo=113.949627833,22.530338877
+Wed, 04 Nov 2015 13:29:16 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Wed, 04 Nov 2015 13:29:16 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.530338877,113.949627833&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7569
+Wed, 04 Nov 2015 13:29:16 compute.py[line:69] INFO user=oqi1NwRiHZMc9Odc2Qr42__0ferg; address=南山区威新软件科技园(科技南路西)
+Wed, 04 Nov 2015 13:29:36 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要寄快递
+Wed, 04 Nov 2015 13:29:36 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=快递; status=None
+Wed, 04 Nov 2015 13:29:38 compute.py[line:57] INFO user=oqi1NwRiHZMc9Odc2Qr42__0ferg; text=我要快递
+Wed, 04 Nov 2015 13:29:38 compute.py[line:45] INFO user=oqi1NwRiHZMc9Odc2Qr42__0ferg; category=快递; status=None
+Wed, 04 Nov 2015 13:29:49 compute.py[line:57] INFO user=oqi1NwRiHZMc9Odc2Qr42__0ferg; text=查
+Wed, 04 Nov 2015 13:30:01 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=寄快递
+Wed, 04 Nov 2015 13:30:01 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=快递; status=None
+Wed, 04 Nov 2015 13:30:56 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=顺丰
+Wed, 04 Nov 2015 13:30:56 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=顺丰速运; status=None
+Wed, 04 Nov 2015 13:35:11 compute.py[line:57] INFO user=oqi1NwRiHZMc9Odc2Qr42__0ferg; text=顺丰
+Wed, 04 Nov 2015 13:35:11 compute.py[line:45] INFO user=oqi1NwRiHZMc9Odc2Qr42__0ferg; category=顺丰速运; status=None
+Wed, 04 Nov 2015 13:59:39 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=寄快递
+Wed, 04 Nov 2015 13:59:39 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=快递; status=None
+Wed, 04 Nov 2015 13:59:42 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=没有
+Wed, 04 Nov 2015 13:59:42 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=快递; status=None
+Thu, 05 Nov 2015 15:44:56 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=手机维修
+Thu, 05 Nov 2015 15:44:56 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=手机维修; status=None
+Sun, 08 Nov 2015 23:39:04 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要买菜
+Sun, 08 Nov 2015 23:39:08 compute.py[line:67] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; geo=120.138223125,30.2788988504
+Sun, 08 Nov 2015 23:39:08 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Sun, 08 Nov 2015 23:39:11 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=30.2788988504,120.138223125&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7033
+Sun, 08 Nov 2015 23:39:11 compute.py[line:69] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; address=西湖区浙江大学(西溪校区北园)内
+Sun, 08 Nov 2015 23:39:12 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要买菜
+Sun, 08 Nov 2015 23:39:19 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要买菜
+Sun, 08 Nov 2015 23:39:34 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要蔬菜
+Sun, 08 Nov 2015 23:39:34 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=生鲜配送; status=None
+Sun, 08 Nov 2015 23:40:57 compute.py[line:67] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; geo=120.137816961,30.2793441864
+Sun, 08 Nov 2015 23:40:57 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Sun, 08 Nov 2015 23:40:57 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=30.2793441864,120.137816961&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 6838
+Sun, 08 Nov 2015 23:40:57 compute.py[line:69] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; address=西湖区浙江大学(西溪校区北园)内(教工路东)
+Sun, 08 Nov 2015 23:41:01 compute.py[line:57] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; text=我要买菜
+Sun, 08 Nov 2015 23:41:01 compute.py[line:45] INFO user=oqi1NwWwHjIq07uYzo6Cpw7TYm4s; category=生鲜配送; status=None
+Wed, 11 Nov 2015 17:55:07 compute.py[line:57] INFO user=oqi1NwUITayVp_fdftBQ4wol0N7E; text=我要洗衣服
+Wed, 11 Nov 2015 17:55:14 compute.py[line:67] INFO user=oqi1NwUITayVp_fdftBQ4wol0N7E; geo=113.949081012,22.5307244243
+Wed, 11 Nov 2015 17:55:14 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Wed, 11 Nov 2015 17:55:15 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.5307244243,113.949081012&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7570
+Wed, 11 Nov 2015 17:55:15 compute.py[line:69] INFO user=oqi1NwUITayVp_fdftBQ4wol0N7E; address=南山区威新软件科技园内(高新南环路南)
+Wed, 11 Nov 2015 17:55:24 compute.py[line:57] INFO user=oqi1NwUITayVp_fdftBQ4wol0N7E; text=我要洗衣服
+Wed, 11 Nov 2015 17:55:24 compute.py[line:45] INFO user=oqi1NwUITayVp_fdftBQ4wol0N7E; category=洗涤; status=None
+Wed, 11 Nov 2015 17:56:24 compute.py[line:57] INFO user=oqi1NwUITayVp_fdftBQ4wol0N7E; text=1
+Wed, 11 Nov 2015 17:56:24 compute.py[line:35] INFO user=oqi1NwUITayVp_fdftBQ4wol0N7E; category=洗涤; feedback=1
+Thu, 12 Nov 2015 08:52:06 compute.py[line:67] INFO user=oqi1NwZXSms61kG8luDzvWJtw_I0; geo=113.949428957,22.530286327
+Thu, 12 Nov 2015 08:52:06 connectionpool.py[line:203] INFO Starting new HTTP connection (1): apis.map.qq.com
+Thu, 12 Nov 2015 08:52:08 connectionpool.py[line:295] DEBUG "GET /ws/geocoder/v1/?location=22.530286327,113.949428957&key=YMUBZ-UDIKI-FOZGR-57E7J-7GHQE-4WBOB&get_poi=1 HTTP/1.1" 200 7550
+Thu, 12 Nov 2015 08:52:08 compute.py[line:69] INFO user=oqi1NwZXSms61kG8luDzvWJtw_I0; address=南山区威新软件科技园内(科技南路西)
+Thu, 12 Nov 2015 08:52:17 compute.py[line:57] INFO user=oqi1NwZXSms61kG8luDzvWJtw_I0; text=修手机
+Thu, 12 Nov 2015 08:52:17 compute.py[line:45] INFO user=oqi1NwZXSms61kG8luDzvWJtw_I0; category=手机维修; status=None
